@@ -7,7 +7,7 @@ from selenium.webdriver.common.by import By;
 load_dotenv();
 
 #reminder to remove key when uploaded to public github
-TOKEN = ("MTE2MzYwOTE1Njg0NzE2MTQyNQ.GKvGyA.Mi_CayRQRBBf8EmvFElZ7yGLWXYY5inr8JH_qk");
+
 
 intents = discord.Intents.default()
 intents.message_content = True
